@@ -1,0 +1,24 @@
+CosmicRewind
+│
+├── PreShow
+│     ├── Wonders of Xandar
+│     ├── Galaxarium Presentation
+│     └── Cosmic Emergency
+│
+├── RideVehicle
+│     ├── Vehicle A
+│     ├── Vehicle B
+│     └── Vehicle C
+│
+├── Ride Profiles
+│     ├── Profile 1
+│     ├── Profile 2
+│     └── Profile 3
+│
+└── Music Selection
+      ├── September
+      ├── Disco Inferno
+      ├── Conga
+      ├── Everybody Wants to Rule the World
+      ├── One Way or Another
+      └── I Ran
